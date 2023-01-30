@@ -15,3 +15,6 @@ This cell contains uninteresting visualization code.
 
 Cell "tf.data.Dataset: parse files and prepare training and validation datasets"
 This cell used the tf.data.Dataset API to load the MNIST dataset form the data files. It is not necessary to spend too much time on this cell. If you are interested in the tf.data.Dataset API, here is a tutorial that explains it: TPU-speed data pipelines.
+
+Reference: https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist
+
